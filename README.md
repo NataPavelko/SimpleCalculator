@@ -1,26 +1,20 @@
+# 🧮 Tkinter Calculator
 
-🧮 Tkinter Calculator
-A simple calculator GUI built with Python and Tkinter.
+A simple calculator app built with Python and Tkinter.
 
-✅ Features
-Basic operations: +, -, *, /
+## ✅ Features
 
-Parentheses and decimal support
+- Basic arithmetic: `+`, `-`, `*`, `/`
+- Parentheses `()`, decimal point `.`
+- `=` button for evaluation
+- `DEL` to remove the last character
+- `DELETE EVERYTHING` to clear the entire input
+- Fixed-size window using a responsive grid layout
 
-= to calculate result
+## ▶️ How to Run
 
-DEL to delete last character
+1. Save the code in a file, e.g. `calculator.py`
+2. Open a terminal and run:
 
-DELETE EVERYTHING to clear input
-
-Grid layout with fixed window size
-
-▶️ Run
-bash
-Kopieren
-Bearbeiten
+```bash
 python calculator.py
-No extra libraries needed — only standard Python.
-
-⚠️ Note
-Uses eval() for expression evaluation — avoid unsafe input if expanding this app.
