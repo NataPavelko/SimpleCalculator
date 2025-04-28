@@ -1,20 +1,21 @@
-# 🧮 Tkinter Calculator
+# 🧮 Tkinter Taschenrechner
 
-A simple calculator app built with Python and Tkinter.
+Ein einfacher Taschenrechner, entwickelt mit Python und Tkinter.
 
-## ✅ Features
+## ✅ Funktionen
 
-- Basic arithmetic: `+`, `-`, `*`, `/`
-- Parentheses `()`, decimal point `.`
-- `=` button for evaluation
-- `DEL` to remove the last character
-- `DELETE EVERYTHING` to clear the entire input
-- Fixed-size window using a responsive grid layout
+- Grundrechenarten: `+`, `-`, `*`, `/`
+- Unterstützung von Klammern `()` und Dezimalpunkten `.`
+- `=`-Taste zur Auswertung von Berechnungen
+- `DEL`, um das letzte Zeichen zu löschen
+- `ALLES LÖSCHEN`, um die gesamte Eingabe zu löschen
+- Feste Fenstergröße mit responsivem Rasterlayout
 
-## ▶️ How to Run
+## ▶️ Ausführen der Anwendung
 
-1. Save the code in a file, e.g. `calculator.py`
-2. Open a terminal and run:
+1. Speichere den Code in einer Datei, z. B. `calculator.py`.
+2. Öffne ein Terminal und führe folgenden Befehl aus:
 
 ```bash
 python calculator.py
+
